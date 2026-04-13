@@ -1,6 +1,4 @@
-# Backend Programming Template (2026)
-
-## Development Setup
+# Kuis Backend Programming
 
 1. Fork and clone this repository to your local computer.
 2. Open the project using VS Code.
